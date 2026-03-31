@@ -1,0 +1,1290 @@
+
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Cell Biology",
+    "code": "FSB 201.1",
+    "session": "2021/2022",
+    "topics": ["Origin of Life", "Evolution", "Microscopy", "History of Science", "Biochemistry", "Separation Techniques", "Molecular Biology", "Eukaryotic Cells", "Prokaryotes", "Eukaryotes", "Genetics", "Plant Cells", "Bacteria", "Immunology", "Classification", "Cell Membrane", "Endoplasmic Reticulum", "History of Biology", "Cellular Respiration", "Vacuoles", "Ribosomes", "Cell Division", "Cytoskeleton", "Cell Motility", "Histology", "Microbiology", "Metabolism", "Macromolecules", "Structural Biology", "Cytology", "Nucleic Acids", "Nutrition", "Ecology", "Carbohydrates", "Anatomy", "Skeleton", "Laboratory Techniques"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+      "content": "What are the building blocks with which the bodies of complex organisms are composed?",
+      "type": "OBJ",
+      "options": [
+        "Atoms",
+        "Elements",
+        "Cells",
+        "Nuclei",
+        "Tissues"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fundamental Unit of Life</h4>\n <p>The correct answer is <strong>C (Cells)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n The Cell Theory states that all living organisms are composed of cells, which are the basic structural and functional units of life. Complex organisms, like humans and trees, are multicellular, meaning their bodies are built from trillions of these microscopic units working together.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+      "content": "What is the study of cells and their activities known as?",
+      "type": "OBJ",
+      "options": [
+        "Botany",
+        "Cytology",
+        "Zoology",
+        "Embryology",
+        "Biochemistry"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining the Field</h4>\n <p>The correct answer is <strong>B (Cytology)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Cytology is the branch of biology dedicated to the study of cells. The name comes from the Greek \"kytos\" (meaning a hollow vessel, or cell) and \"-logia\" (meaning study of).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cytology"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Biology", "Cell Biology", "Origin of Life"],
+    "Question": {
+      "content": "How are living cells thought to have arisen on Earth?",
+      "type": "OBJ",
+      "options": [
+        "Spontaneous aggregation of molecules",
+        "God’s creation",
+        "By the activities of man",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Abiogenesis</h4>\n <p>The correct answer is <strong>A (Spontaneous aggregation of molecules)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n The scientific theory of abiogenesis proposes that life arose naturally from non-living matter through a gradual process of chemical evolution. Simple organic molecules aggregated to form more complex polymers, which eventually led to the first protocells.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spontaneous aggregation of molecules"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Biology", "Cell Biology", "Evolution"],
+    "Question": {
+      "content": "What are the earliest formed cells?",
+      "type": "OBJ",
+      "options": [
+        "Eucaryotic cells",
+        "Amoeba",
+        "Prokaryotic cells",
+        "Euglena",
+        "Fungi"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evolutionary Timeline</h4>\n <p>The correct answer is <strong>C (Prokaryotic cells)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Prokaryotes, such as bacteria, were the first life forms on Earth, appearing around 3.5 to 3.8 billion years ago. They are simpler and lack a membrane-bound nucleus, in contrast to the more complex eukaryotic cells that evolved much later.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryotic cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biology", "Microscopy", "History of Science"],
+    "Question": {
+      "content": "Who invented the first microscope?",
+      "type": "OBJ",
+      "options": [
+        "Jansen 1590",
+        "Jansen (1620)",
+        "Hooke (1655)",
+        "Golgi (1898)",
+        "John (1590)"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pioneers of Microscopy</h4>\n <p>The correct answer is <strong>A (Jansen 1590)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Dutch spectacle makers Hans and Zacharias Janssen are credited with inventing the first compound microscope around 1590. While Robert Hooke later popularized its use, the Janssens were the pioneers in its invention.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jansen 1590"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+      "content": "Who used a compound microscope to describe small pores in sections of cork that he called “Cells”?",
+      "type": "OBJ",
+      "options": [
+        "Grew and Malpighi (1675)",
+        "Robert Brown (1831)",
+        "Von Mohl (1846)",
+        "Hooke (1655)",
+        "De Bary (1861)"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Origin of the Term \"Cell\"</h4>\n <p>The correct answer is <strong>D (Hooke (1655))</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n In 1665, Robert Hooke published his groundbreaking book \"Micrographia,\" in which he described his observations of a thin slice of cork. He saw a honeycomb-like structure and coined the term \"cells\" because they reminded him of the small rooms (cellulae) in a monastery.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hooke (1655)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+      "content": "Who discovered the cell nucleus?",
+      "type": "OBJ",
+      "options": [
+        "De Bary (1861)",
+        "Strasburger (1880)",
+        "Robert Brown (1833)",
+        "Mathias Schleiden (1838)",
+        "All of the above"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Discovering the Nucleus</h4>\n <p>The correct answer is <strong>C (Robert Brown (1833))</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n While examining orchid tissues under a microscope, Scottish botanist Robert Brown was the first to identify and describe the cell nucleus in 1833, a key discovery that advanced cell theory.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Robert Brown (1833)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+      "content": "Who proposed the cell theory?",
+      "type": "OBJ",
+      "options": [
+        "Schleiden and Schwann (1839)",
+        "Grew and Malpighi (1675)",
+        "Hooke and Schleiden (1665)",
+        "Schwann and Brown (1831)",
+        "Grew and Brown (1870)"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Formulation of Cell Theory</h4>\n <p>The correct answer is <strong>A (Schleiden and Schwann (1839))</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Botanist Matthias Schleiden and zoologist Theodor Schwann are credited with formally proposing the cell theory. In 1839, they concluded that all plants and animals are composed of cells, which are the fundamental unit of life.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Schleiden and Schwann (1839)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+      "content": "Who gave details on the structure, number, and division of the nucleus and chromosome?",
+      "type": "OBJ",
+      "options": [
+        "De Bary and Schultze (1861)",
+        "Strasburger (1880) and Boveri (1900)",
+        "Schleiden and Schwann (1839)",
+        "Strasburger and Schwann (1900)",
+        "Schwann and Boveri (1901)"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Elucidating Cell Division</h4>\n <p>The correct answer is <strong>B (Strasburger (1880) and Boveri (1900))</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Eduard Strasburger was a pioneer in describing the process of mitosis in plant cells. Theodor Boveri, working with animal cells, made significant contributions to understanding chromosome structure, number, and their behavior during cell division (mitosis and meiosis).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strasburger (1880) and Boveri (1900)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+      "content": "How does a phase-contrast microscope function?",
+      "type": "OBJ",
+      "options": [
+        "Excluding light",
+        "Using air",
+        "Retardation and shifting of light phases or rays",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Visualizing Transparent Specimens</h4>\n <p>The correct answer is <strong>C (Retardation and shifting of light phases or rays)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Phase-contrast microscopy converts differences in the phase of light passing through a transparent specimen into differences in brightness (contrast). It works by separating and then recombining the direct and diffracted light rays, causing them to interfere and create a visible image of structures otherwise invisible.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Retardation and shifting of light phases or rays"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Biochemistry and Cell Biology",
+    "Subheading": "Principles of Separation Techniques"
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Biochemistry", "Separation Techniques"],
+    "Question": {
+      "content": "Ion-exchange columns function based on what principle?",
+      "type": "OBJ",
+      "options": [
+        "Solubility",
+        "Size",
+        "Charge",
+        "Weight",
+        "Vaporization"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ion-Exchange Chromatography</h4>\n <p>The correct answer is <strong>Charge (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Principle</strong><br>\n Ion-exchange columns separate molecules based on their net surface charge. The column matrix contains charged groups (like DEAE or CM) that attract oppositely charged molecules. Molecules are then eluted by changing the salt concentration or pH of the buffer.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Charge"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biochemistry", "Separation Techniques"],
+    "Question": {
+      "content": "Affinity-chromatography functions on what principle?",
+      "type": "OBJ",
+      "options": [
+        "Enzyme binding",
+        "Ion",
+        "Size",
+        "Solubility",
+        "Covalent binding"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Affinity Chromatography</h4>\n <p>The correct answer is <strong>Enzyme binding (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n Affinity chromatography uses specific, reversible interactions between a target molecule and a ligand immobilized on a matrix. This is often based on biological recognition, such as enzyme-substrate, antibody-antigen, or receptor-ligand binding.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzyme binding"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Biochemistry", "Molecular Biology"],
+    "Question": {
+      "content": "The matrix (substrate) used in Gel-electrophoresis is known as?",
+      "type": "OBJ",
+      "options": [
+        "Polyacrylamide",
+        "Polysaccharide",
+        "Lipid",
+        "Protein",
+        "Glucose"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gel-Electrophoresis Matrix</h4>\n <p>The correct answer is <strong>Polyacrylamide (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Matrix Function</strong><br>\n Polyacrylamide is the most common matrix for protein electrophoresis (SDS-PAGE). It forms a porous gel that separates molecules primarily by size. Agarose, a polysaccharide, is also used but mainly for DNA separation.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polyacrylamide"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Biochemistry", "Molecular Biology"],
+    "Question": {
+      "content": "In Gel-electrophoresis, the proteins are dissolved in ______ to free them from associations and make them soluble in the solution.",
+      "type": "OBJ",
+      "options": [
+        "Potassium dodecyl sulphate",
+        "Calcium dodecyl sulphate",
+        "Sodium dodecyl sulphate",
+        "Zinc dodecyl sulphate",
+        "Sodium dodecyl nitrate"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SDS in Electrophoresis</h4>\n <p>The correct answer is <strong>Sodium dodecyl sulphate (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Role of SDS</strong><br>\n Sodium dodecyl sulphate (SDS) is an anionic detergent that denatures proteins by wrapping around the polypeptide backbone. It gives all proteins a uniform negative charge, allowing separation solely by molecular weight.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sodium dodecyl sulphate"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Cell Biology",
+    "Subheading": "Cell Structure and Characteristics"
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Cell Biology", "Eukaryotic Cells"],
+    "Question": {
+      "content": "Most eukaryotic cells are of the range of?",
+      "type": "OBJ",
+      "options": [
+        "0.1 to 0.2 μm.",
+        "10 to 50 μm.",
+        "1 to 2 mm.",
+        "10 to 50 mm.",
+        "0.2 to 2 cm."
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotic Cell Size</h4>\n <p>The correct answer is <strong>10 to 50 μm (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Size Comparison</strong><br>\n Most eukaryotic cells are typically 10-100 micrometers in diameter. 10-50 μm is the standard range for many animal and plant cells, while prokaryotic cells are much smaller (0.1-5 μm).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10 to 50 μm."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Cell Biology", "Prokaryotes", "Eukaryotes"],
+    "Question": {
+      "content": "The major difference between eukaryotic and prokaryotic cells is that?",
+      "type": "OBJ",
+      "options": [
+        "Prokaryotic cells have cell membrane.",
+        "Prokaryotic cells have a nucleus.",
+        "Eukaryotic cells have genetic information.",
+        "Eukaryotic cells have nucleus.",
+        "Chlorophyll"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Cellular Difference</h4>\n <p>The correct answer is <strong>Eukaryotic cells have nucleus (D)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Defining Feature</strong><br>\n The presence of a membrane-bound nucleus is the defining characteristic that distinguishes eukaryotes from prokaryotes. Prokaryotes have a nucleoid region where their genetic material is located but no nuclear membrane.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eukaryotic cells have nucleus."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Cell Biology", "Genetics"],
+    "Question": {
+      "content": "The genetic material of a cell are stored in the cell?",
+      "type": "OBJ",
+      "options": [
+        "Endoplasmic Reticulum",
+        "Mitochondria",
+        "Nucleus",
+        "Vacuoles",
+        "Centriole"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Storage of Genetic Material</h4>\n <p>The correct answer is <strong>Nucleus (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Cellular Control Center</strong><br>\n The nucleus is the organelle that houses the cell's DNA (genetic material). It is the control center of the cell, regulating gene expression and mediating the replication of DNA during the cell cycle.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleus"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Cell Biology", "Plant Cells"],
+    "Question": {
+      "content": "Which of the following organelles is only found in plant cells?",
+      "type": "OBJ",
+      "options": [
+        "Nucleus",
+        "Mitochondrion",
+        "Plastid",
+        "Golgi Apparatus",
+        "Ribosome"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Unique Plant Cell Organelles</h4>\n <p>The correct answer is <strong>Plastid (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Plant-Specific Structures</strong><br>\n Plastids (like chloroplasts, chromoplasts, and leucoplasts) are membrane-bound organelles found exclusively in plant cells and some protists. They are involved in photosynthesis, storage, and pigment synthesis.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plastid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Cell Biology", "Bacteria"],
+    "Question": {
+      "content": "Peptidoglycan is a feature of?",
+      "type": "OBJ",
+      "options": [
+        "Eukaryotes",
+        "Algae",
+        "Animal Cells",
+        "Prokaryotes",
+        "Viruses"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peptidoglycan in Prokaryotes</h4>\n <p>The correct answer is <strong>Prokaryotes (D)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Cell Wall Component</strong><br>\n Peptidoglycan (murein) is a unique polymer consisting of sugars and amino acids. It forms a rigid layer in the cell walls of most bacteria (prokaryotes), providing structural support and protection.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryotes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Cell Biology", "Immunology"],
+    "Question": {
+      "content": "______ is responsible for cellular defence.",
+      "type": "OBJ",
+      "options": [
+        "Nucleus",
+        "Lysosome",
+        "Chloroplast",
+        "Golgi body",
+        "Mitochondria"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Defense Organelles</h4>\n <p>The correct answer is <strong>Lysosome (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Role of Lysosomes</strong><br>\n Lysosomes are membrane-bound organelles containing hydrolytic enzymes. They digest foreign particles, bacteria, and old cell components, acting as the cell's waste disposal and defense system.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lysosome"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Cell Biology"],
+    "Question": {
+      "content": "Which one among the following is not an extracellular structure?",
+      "type": "OBJ",
+      "options": [
+        "Flagella",
+        "Microvilli",
+        "Cilia",
+        "Plasma membrane",
+        "Fimbriae"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Extracellular vs. Cellular Structures</h4>\n <p>The correct answer is <strong>Plasma membrane (D)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n The plasma membrane is the boundary of the cell itself. Extracellular structures like flagella, cilia, microvilli, and fimbriae are projections or appendages that extend from the cell surface into the external environment.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plasma membrane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Cell Biology"],
+    "Question": {
+      "content": "______ is not an occurrence of cells in nature.",
+      "type": "OBJ",
+      "options": [
+        "Unicell",
+        "Filamentous cells",
+        "Colonial cells",
+        "Multicell",
+        "Prokaryote"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Organization</h4>\n <p>The correct answer is <strong>Prokaryote (E)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Clarifying Terms</strong><br>\n Prokaryote is a type of cell, not a pattern of organization. Unicellular, filamentous, colonial, and multicellular are all ways cells are organized in nature. Prokaryotes can be unicellular or form colonies/filaments.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryote"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Cell Biology", "Prokaryotes"],
+    "Question": {
+      "content": "Which of the following cellular structure is not associated with prokaryotes?",
+      "type": "OBJ",
+      "options": [
+        "Capsule",
+        "Cell Wall",
+        "Genetic Material",
+        "Spore",
+        "Nucleus"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Structures</h4>\n <p>The correct answer is <strong>Nucleus (E)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Absence in Prokaryotes</strong><br>\n Prokaryotes lack a membrane-bound nucleus. Their genetic material is located in a region called the nucleoid. Capsules, cell walls, spores, and genetic material are all associated with various prokaryotes.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleus"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Cell Biology", "Classification"],
+    "Question": {
+      "content": "______ is not an example of eukaryote.",
+      "type": "OBJ",
+      "options": [
+        "Blue-green Algae",
+        "Plant Cell",
+        "Fungal Cell",
+        "Animal Cell",
+        "Protista cell"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotic vs. Prokaryotic Organisms</h4>\n <p>The correct answer is <strong>Blue-green Algae (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Classification</strong><br>\n Blue-green algae (cyanobacteria) are prokaryotes. They lack a nucleus and other membrane-bound organelles, unlike plants, fungi, animals, and protists which are all eukaryotes.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blue-green Algae"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Cell Biology", "Prokaryotes"],
+    "Question": {
+      "content": "The location of genetic material in the cytoplasm of the prokaryotes called?",
+      "type": "OBJ",
+      "options": [
+        "Nucleus",
+        "Nucleoplasm",
+        "Nucleolus",
+        "Nucleoid",
+        "Protoplasm"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Genetic Region</h4>\n <p>The correct answer is <strong>Nucleoid (D)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Prokaryotic DNA Location</strong><br>\n The nucleoid is an irregularly shaped region within the prokaryotic cell where the genetic material (DNA) is located. It is not enclosed by a membrane, distinguishing it from the eukaryotic nucleus.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleoid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Cell Biology", "Plant Cells"],
+    "Question": {
+      "content": "Large central vacuole is a feature of?",
+      "type": "OBJ",
+      "options": [
+        "Unicells",
+        "Colonial cells",
+        "Prokaryotic cells",
+        "Plant cells",
+        "Animal cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Large Central Vacuole</h4>\n <p>The correct answer is <strong>Plant cells (D)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Plant Cell Feature</strong><br>\n Mature plant cells contain a large, central vacuole that occupies most of the cell's volume. It maintains turgor pressure, stores water, nutrients, and waste products. Animal cells have small, temporary vacuoles.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plant cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Cell Biology"],
+    "Question": {
+      "content": "Cell wall is present all except?",
+      "type": "OBJ",
+      "options": [
+        "Bacterial cell",
+        "Fungal cell",
+        "Plant cell",
+        "Algal cells",
+        "Red blood cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Wall Distribution</h4>\n <p>The correct answer is <strong>Red blood cells (E)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Animal Cells Lack Cell Walls</strong><br>\n Red blood cells are animal cells and, like all animal cells, do not have a cell wall. They are bounded only by a plasma membrane. Bacteria, fungi, plants, and algae all possess cell walls of varying compositions.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Red blood cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Cell Biology"],
+    "Question": {
+      "content": "All cells are of same shape and size.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "All of the above",
+        "None of the above",
+        "Animal cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Diversity</h4>\n <p>The correct answer is <strong>False (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Cells vary greatly in shape and size depending on their function. For example, nerve cells are long and branched, red blood cells are disc-shaped, and bacterial cells are much smaller than plant or animal cells.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Cell Biology", "Cell Membrane"],
+    "Question": {
+      "content": "The cell membrane regulates entry and exit of the following except?",
+      "type": "OBJ",
+      "options": [
+        "Some ions",
+        "Molecules",
+        "Micro-organisms",
+        "Defines the body of a cell",
+        "Controls photosynthesis"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Membrane Functions</h4>\n <p>The correct answer is <strong>Controls photosynthesis (E)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Point</strong><br>\n The cell membrane is selectively permeable, regulating ions, molecules, and preventing micro-organism entry. Photosynthesis is controlled by chloroplasts, not the cell membrane. Defining cell shape is also a membrane function.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Controls photosynthesis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Cell Biology", "Endoplasmic Reticulum"],
+    "Question": {
+      "content": "Rough endoplasmic reticulum is distinguished from smooth endoplasmic reticulum by having --- on its surface.",
+      "type": "OBJ",
+      "options": [
+        "Tubules",
+        "Ribosomes",
+        "Proteins",
+        "Glucose molecules",
+        "Nothing"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>RER vs. SER</h4>\n <p>The correct answer is <strong>Ribosomes (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Structural Difference</strong><br>\n Rough ER has ribosomes attached to its cytoplasmic surface, giving it a \"rough\" appearance under electron microscopy. These ribosomes synthesize proteins. Smooth ER lacks ribosomes and is involved in lipid synthesis and detoxification.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ribosomes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Cell Biology", "History of Biology"],
+    "Question": {
+      "content": "--- discovered Golgi apparatus.",
+      "type": "OBJ",
+      "options": [
+        "Robert Hook",
+        "Gregor Mendel",
+        "Camillo Golgi",
+        "Michael Faraday",
+        "Charles Darwin"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Discovery of Golgi Apparatus</h4>\n <p>The correct answer is <strong>Camillo Golgi (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Fact</strong><br>\n Italian physician and scientist Camillo Golgi discovered the Golgi apparatus in 1898 using a silver staining technique. The organelle was later named in his honor.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Camillo Golgi"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Cell Biology", "Cellular Respiration"],
+    "Question": {
+      "content": "The organelle responsible for cellular respiration is called ---.",
+      "type": "OBJ",
+      "options": [
+        "Nucleus",
+        "Cytoplasm",
+        "Cell membrane",
+        "Ribosome",
+        "Mitochondria"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Powerhouse of the Cell</h4>\n <p>The correct answer is <strong>Mitochondria (E)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Function</strong><br>\n Mitochondria are the sites of aerobic cellular respiration, where glucose and oxygen are converted into ATP (energy), carbon dioxide, and water. They are often called the \"powerhouses\" of the cell.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitochondria"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Cell Biology", "Vacuoles"],
+    "Question": {
+      "content": "The membrane of cell vacuole is called ---.",
+      "type": "OBJ",
+      "options": [
+        "Tonoplast",
+        "Cell membrane",
+        "Outer membrane",
+        "Plasma membrane",
+        "Plasmalemma"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vacuole Membrane</h4>\n <p>The correct answer is <strong>Tonoplast (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n The tonoplast is the single membrane that surrounds the central vacuole in plant cells. It regulates the movement of ions and molecules between the cytoplasm and the vacuolar sap.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tonoplast"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Cell Biology", "Ribosomes"],
+    "Question": {
+      "content": "Ribosomes are made of ---.",
+      "type": "OBJ",
+      "options": [
+        "RNA and phosphates",
+        "RNA and proteins",
+        "RNA and lipids",
+        "RNA and DNA",
+        "Phosphates and proteins"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ribosome Composition</h4>\n <p>The correct answer is <strong>RNA and proteins (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Structure</strong><br>\n Ribosomes are composed of ribosomal RNA (rRNA) and ribosomal proteins. They consist of two subunits (large and small) that assemble during protein synthesis.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "RNA and proteins"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Cell Biology", "Cell Division"],
+    "Question": {
+      "content": "Centrosomes are important in cells for ---.",
+      "type": "OBJ",
+      "options": [
+        "Cell division",
+        "Cell locomotion",
+        "Cellular biosynthesis",
+        "Cellular transport",
+        "Oxidation of food materials"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Centrosome Function</h4>\n <p>The correct answer is <strong>Cell division (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Role in Mitosis</strong><br>\n The centrosome is the main microtubule-organizing center. During cell division, it duplicates and the two centrosomes move to opposite poles to form the mitotic spindle, which separates chromosomes.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell division"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Cell Biology", "Cytoskeleton"],
+    "Question": {
+      "content": "Cytoskeleton is the internal network of --- which extend throughout the cell cytoplasm.",
+      "type": "OBJ",
+      "options": [
+        "Fluid",
+        "Fibre",
+        "Fibrils",
+        "Bones",
+        "Cartilage"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cytoskeleton Composition</h4>\n <p>The correct answer is <strong>Fibrils (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Structural Network</strong><br>\n The cytoskeleton consists of protein filaments called fibrils: microfilaments (actin), intermediate filaments, and microtubules. They provide structural support, facilitate movement, and enable intracellular transport.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fibrils"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Cell Biology", "Cell Motility"],
+    "Question": {
+      "content": "Flagella and cilia are characteristics of ---.",
+      "type": "OBJ",
+      "options": [
+        "Microscopic cells",
+        "Prokaryotic cells",
+        "Motile cells",
+        "Sedentary cells",
+        "All cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Flagella and Cilia</h4>\n <p>The correct answer is <strong>Motile cells (C)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Function</strong><br>\n Flagella and cilia are hair-like structures that provide motility. Flagella (long, few) enable cell movement (e.g., sperm), while cilia (short, numerous) move substances over cell surfaces or aid in locomotion.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Motile cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Cell Biology"],
+    "Question": {
+      "content": "Unicells is a group of cells of same type that carry out specialized functions.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Unicellular Definition</h4>\n <p>The correct answer is <strong>False (B)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Clarification</strong><br>\n \"Unicells\" refers to unicellular organisms consisting of a single cell. A group of similar cells performing specialized functions describes tissues, not unicells.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Cell Biology", "Histology"],
+    "Question": {
+      "content": "A group of similar cells of the same origin that perform common function is called tissue.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Tissue</h4>\n <p>The correct answer is <strong>True (A)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Histology Concept</strong><br>\n This is the standard biological definition of a tissue. Examples include epithelial tissue, connective tissue, muscle tissue, and nervous tissue.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Short Answer Questions",
+    "Subheading": "Cell Biology Concepts"
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Cell Biology", "Cell Motility"],
+    "Question": {
+      "content": "The distinguishing characteristics between cilia and flagella is in their ---.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cilia vs. Flagella</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Length and Number</strong><br>\n Cilia are shorter and more numerous, beating in a coordinated, oar-like pattern. Flagella are longer, fewer (usually 1-2 per cell), and move in a whip-like, undulating motion.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Length and number"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Microbiology", "Metabolism"],
+    "Question": {
+      "content": "Microbes which metabolize hydrogen peroxides are called ---.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hydrogen Peroxide Metabolism</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Enzyme</strong><br>\n Microbes that metabolize hydrogen peroxide produce the enzyme catalase, which breaks down H₂O₂ into water and oxygen. These are called catalase-positive bacteria.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catalase-positive bacteria"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Biochemistry", "Macromolecules"],
+    "Question": {
+      "content": "Macromolecules are --- that take part in --- production.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macromolecules Definition</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Large Molecules</strong><br>\n Macromolecules are large polymers (carbohydrates, lipids, proteins, nucleic acids) formed from smaller monomers. They participate in energy production, structural formation, and cellular processes.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Large polymers; energy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Biochemistry", "Metabolism"],
+    "Question": {
+      "content": "Glucose is the major fuel of tissues of mammals, except ---.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glucose as Fuel</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Exception</strong><br>\n The brain primarily uses glucose, but can utilize ketone bodies during starvation. However, the major exception is cardiac muscle and resting skeletal muscle, which prefer fatty acids as their primary fuel source.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cardiac muscle and resting skeletal muscle (prefer fatty acids)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Biochemistry", "Metabolism"],
+    "Question": {
+      "content": "Glucose is converted into ribose in ---.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pentose Phosphate Pathway</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Ribose Synthesis</strong><br>\n Glucose-6-phosphate is converted to ribose-5-phosphate via the pentose phosphate pathway (PPP). This pathway generates pentose sugars for nucleotide and nucleic acid synthesis.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The pentose phosphate pathway"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Biochemistry", "Structural Biology"],
+    "Question": {
+      "content": "The exoskeleton of crustaceans and insects has a structural polysaccharide called ---.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Exoskeleton Composition</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Chitin</strong><br>\n Chitin is a long-chain polymer of N-acetylglucosamine. It is the main component of arthropod exoskeletons (crustaceans, insects) and fungal cell walls, providing structural strength.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chitin"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Cell Biology", "Cytology"],
+    "Question": {
+      "content": "The physiology and anatomy of cells are the foundation of --- and --- cytology respectively.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Branches of Cytology</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Cytology Divisions</strong><br>\n Cell physiology studies cellular functions and processes, forming the foundation of physiological cytology. Cell anatomy studies cell structure, forming the foundation of morphological cytology.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physiological; morphological"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Macromolecules and Biochemical Concepts",
+    "Subheading": "Building Blocks and Cellular Components"
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Biochemistry", "Macromolecules"],
+    "Question": {
+      "content": "Many basic units make up the major components of Macromolecules. Fill in the corresponding macromolecules for the given basic units.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macromolecule Building Blocks</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Amino Acids → Proteins</strong><br>\n Amino acids are the monomers that polymerize to form proteins (polypeptides).<br><br>\n <strong style='color: var(--strongColor);'>Fatty Acids → Lipids</strong><br>\n Fatty acids are key components of lipids, particularly triglycerides (fats and oils) and phospholipids.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino acids → Proteins<br>Fatty acids → Lipids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Biochemistry", "Nucleic Acids"],
+    "Question": {
+      "content": "Ribose and deoxyribose are ______ of biological importance.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pentose Sugars</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Role in Nucleic Acids</strong><br>\n Ribose is the sugar component of RNA, while deoxyribose is found in DNA. These five-carbon sugars are essential for nucleotide structure and genetic information storage.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pentose sugars"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Cell Biology", "Biochemistry"],
+    "Question": {
+      "content": "A ______ is a specific molecule found almost exclusively in certain cellular component due to its ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Marker Molecules</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Cellular Markers</strong><br>\n A marker (or biomarker) is a specific molecule found almost exclusively in certain cellular components due to its unique localization. Examples include enzymes, receptors, or structural proteins that identify specific organelles or cell types.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marker; unique localization"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Cell Biology", "Histology"],
+    "Question": {
+      "content": "What are the corresponding markers for the following cellular components?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Markers</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Muscle Marker</strong><br>\n Actin and myosin are the primary structural and functional markers of muscle tissue, responsible for contraction.<br><br>\n <strong style='color: var(--strongColor);'>Chromosome Marker</strong><br>\n Histones are proteins that package and organize DNA into nucleosomes, serving as key markers for chromosomes.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Muscles → Actin and myosin<br>Chromosomes → Histones"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Biochemistry", "Nutrition"],
+    "Question": {
+      "content": "The bulk of dietary carbohydrates is absorbed into the blood stream in the form of ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Absorption</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Final Digestive Product</strong><br>\n Dietary carbohydrates (starches, disaccharides) are broken down into monosaccharides. Glucose is the primary sugar absorbed into the bloodstream and used for energy.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Biology", "Ecology"],
+    "Question": {
+      "content": "Animals derive their ______ from plants during feeding.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Source</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Heterotrophic Nutrition</strong><br>\n Animals are heterotrophs and obtain organic nutrients (carbohydrates, proteins, fats, vitamins) from plants, either directly or indirectly through the food chain.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Organic nutrients (or energy)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Biochemistry", "Metabolism"],
+    "Question": {
+      "content": "Proteins and lipids consumed during meals are broken down in a more complex pathway to provide ______ to animals.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Production</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Catabolic Pathways</strong><br>\n Proteins are broken into amino acids; lipids into fatty acids and glycerol. These enter cellular respiration (glycolysis, Krebs cycle, oxidative phosphorylation) to produce ATP (energy).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy (ATP)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "The proportion of oxygen and hydrogen in hydrates of carbon is similar to that of ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Composition</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Water Analogy</strong><br>\n Carbohydrates (hydrates of carbon) have hydrogen and oxygen in a 2:1 ratio, just like water (H₂O). The name \"carbohydrate\" reflects this hydration of carbon atoms.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water (H₂O)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "The general formula of hydrates of carbon is \\( C_n(H_2O)_n \\) where n ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Formula</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Variable n</strong><br>\n In the general formula \\( C_n(H_2O)_n \\), n represents the number of carbon atoms. For simple sugars (monosaccharides), n is typically 3, 4, 5, 6, or 7 (trioses, tetroses, pentoses, hexoses, heptoses).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "≥ 3 (typically 3 to 7)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Anatomy", "Skeleton"],
+    "Question": {
+      "content": "Bones have structural elements named ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bone Structural Components</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Microscopic Structure</strong><br>\n Bone structural elements include osteons (Haversian systems), lamellae, lacunae, canaliculi, and trabeculae. These form the organized matrix of compact and spongy bone tissue.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Osteons (or Haversian systems)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Molecular Biology", "Genetics"],
+    "Question": {
+      "content": "Cellular ______ multiplies the number of copies of a particular molecule of the cell that can subsequently be sequenced using ______.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Amplification</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>PCR Technology</strong><br>\n Cellular amplification refers to Polymerase Chain Reaction (PCR), which exponentially multiplies DNA copies. These amplified products are then sequenced using DNA sequencing techniques (e.g., Sanger or next-generation sequencing).\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amplification (PCR); DNA sequencing"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Biochemistry", "Laboratory Techniques"],
+    "Question": {
+      "content": "The ______ is a liquid constituent at the top of a test tube after centrifugation.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Centrifugation Separation</h4>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Supernatant Definition</strong><br>\n After centrifugation, the liquid layer that remains above the solid pellet is called the supernatant. It contains the less dense components of the sample.\n </div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Supernatant"
+    }
+  }
+]
+
