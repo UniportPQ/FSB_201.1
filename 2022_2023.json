@@ -1,0 +1,1624 @@
+[
+{
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Cell Biology",
+    "code": "FSB 201.1",
+    "session": "2022/2023",
+    "topics": ["Origin of Life", "Evolution", "Microscopy", "History of Science", "Biochemistry", "Separation Techniques", "Molecular Biology", "Eukaryotic Cells", "Prokaryotes", "Eukaryotes", "Genetics", "Plant Cells", "Bacteria", "Immunology", "Classification", "Cell Membrane", "Endoplasmic Reticulum", "History of Biology", "Cellular Respiration", "Vacuoles", "Ribosomes", "Cell Division", "Cytoskeleton", "Cell Motility", "Histology", "Microbiology", "Metabolism", "Macromolecules", "Structural Biology", "Cytology", "Nucleic Acids", "Nutrition", "Ecology", "Carbohydrates", "Anatomy", "Skeleton", "Laboratory Techniques"],
+    "time": "90"
+},
+{
+    "type": "Instruction",
+    "content": "Answer all Questions"
+},
+{
+    "type": "heading",
+    "heading": "Section A"
+},
+{
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+        "content": "The cell is the ______ unit of structure and function in all living things.",
+        "type": "OBJ",
+        "options": ["secondary", "tertiary", "basic", "biggest", "none of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fundamental Unit of Life</h4><p>The cell is the <strong>basic</strong> unit of structure and function in all living organisms. This is a core principle of cell theory, stating that all life is composed of cells and that the cell is the smallest unit that can carry out all life processes.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "basic"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+        "content": "The study of cells is called ______.",
+        "type": "OBJ",
+        "options": ["zoology", "microbiology", "biochemistry", "cytology", "Botany"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Science of Cells</h4><p>The study of cells is specifically called <strong>cytology</strong>. The term comes from the Greek 'kytos' meaning 'container' or 'vessel'. Other branches of biology focus on different scales: zoology studies animals, microbiology studies microorganisms, and biochemistry studies the chemical processes within living things.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "cytology"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Biology", "Cell Biology", "Evolution"],
+    "Question": {
+        "content": "The earliest form cells are thought to be ______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Cells</h4><p>The earliest cells are believed to be <strong>prokaryotes</strong> (or more specifically, <strong>heterotrophic prokaryotes</strong>). These simple, single-celled organisms lacked a membrane-bound nucleus and other organelles. They are thought to have emerged from prebiotic chemical reactions, eventually forming the first protocells.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Prokaryotes (heterotrophic prokaryotes)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Biology", "Cell Biology", "Evolution"],
+    "Question": {
+        "content": "In cell evolution, living things are thought to have arisen on earth by ______ several years ago.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Origin of Life</h4><p>The earliest evidence of life on Earth dates back approximately <strong>3.5 to 3.8 billion years ago</strong>. This is based on fossil evidence of microbial mats (stromatolites) and the presence of organic carbon in ancient rocks, indicating that life arose relatively soon after the Earth's formation and the stabilization of its oceans.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "3.5 to 3.8 billion"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biology", "Cell Biology", "Evolution"],
+    "Question": {
+        "content": "The 2nd step in the theory of Origin of Cells was ______ as postulated.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Oparin-Haldane Hypothesis</h4><p>The second step in the Oparin-Haldane hypothesis for the origin of cells is the <strong>formation of organic polymers (like proteins and nucleic acids) from simple organic monomers</strong>. The first step involved the formation of simple organic molecules (like amino acids and nucleotides) from inorganic precursors. These then polymerized to form the complex macromolecules essential for life.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Formation of organic polymers"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+        "content": "Cell membrane are principally composed of ______.",
+        "type": "OBJ",
+        "options": ["Phospholipids and fatty acids", "proteins and amylase", "Fatty acids and glucose", "phospholipids and proteins", "Atoms"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fluid Mosaic Model</h4><p>According to the fluid mosaic model, the cell membrane is primarily composed of a bilayer of <strong>phospholipids and proteins</strong>. Phospholipids form the structural framework, while proteins are embedded within or attached to the surface, performing functions like transport, signaling, and enzymatic activity.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "phospholipids and proteins"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+        "content": "Cell study started with the discovery of cell by ______.",
+        "type": "OBJ",
+        "options": ["Van Leeuwenhoek (1665)", "Robert Hooke (1665)", "De Bary (1861)", "Robert Hooke (1667)", "Jones (1800)"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Discovery of Cells</h4><p>English scientist <strong>Robert Hooke</strong> is credited with the discovery of cells in <strong>1665</strong>. Using a self-made compound microscope, he observed thin slices of cork and noticed tiny, box-like compartments which he named 'cells' (from the Latin 'cella', meaning 'small room').</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Robert Hooke (1665)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+        "content": "______ observed the nucleus in the epidermal cells of an orchid plant.",
+        "type": "OBJ",
+        "options": ["Robert Brown (1831)", "Bovey (1900)", "Malpighi (1675)", "Dujardin (1834)", "All of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Discovery of the Nucleus</h4><p><strong>Robert Brown</strong>, a Scottish botanist, first described and named the nucleus in <strong>1831</strong> while observing orchid epidermal cells under a microscope. He noted a distinct, opaque spot within the cell, which he termed the 'nucleus', recognizing it as a key cellular component.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Robert Brown (1831)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+        "content": "______ proposed the cell theory.",
+        "type": "OBJ",
+        "options": ["Matthias Schleiden (1836)", "Theodor Schwann (1836)", "Scheiden & Schwann (1839)", "Nageli (1846)", "Colton (1850)"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Classical Cell Theory</h4><p>Botanist <strong>Matthias Schleiden</strong> (in 1838) and zoologist <strong>Theodor Schwann</strong> (in 1839) are jointly credited with proposing the classical cell theory. Their collaboration established that all plants and animals are composed of cells, and that the cell is the basic unit of life.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Scheiden & Schwann (1839)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+        "content": "Who coined the term 'Omnis cellulæs cellulae'?",
+        "type": "OBJ",
+        "options": ["Virchow (1853)", "Virchow (1955)", "Colton (1850)", "Schlieden (1839)", "Schwann (1839)"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Third Tenet of Cell Theory</h4><p>The phrase 'Omnis cellula e cellula' (Latin for 'all cells from cells') was coined by <strong>Rudolf Virchow</strong> in <strong>1855</strong>. He used it to refute the idea of spontaneous generation, establishing the crucial principle that all cells arise only from pre-existing living cells.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Virchow (1853)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "Question": {
+        "content": "______ invented the first microscope.",
+        "type": "OBJ",
+        "options": ["Jameson (1590)", "James (1490)", "Robert Hooke (1866)", "Virchow (1855)", "Schwann (1839)"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Invention of the Microscope</h4><p>The first compound microscope is generally credited to Dutch spectacle makers <strong>Zacharias Janssen and his father Hans</strong> around <strong>1590</strong>. While 'Jameson' is a common misspelling, the intended answer refers to Janssen. They discovered that combining lenses in a tube could magnify objects significantly.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Jameson (1590)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Microscopic increase the resolution of objects by ______.",
+        "type": "OBJ",
+        "options": ["Reducing them", "Magnifying them", "Colouring them", "Covering them", "Blackening them"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Resolution</h4><p>Microscopes increase the resolution of objects by <strong>magnifying them</strong>. Magnification is the process of enlarging the appearance of an object, which allows the observer to distinguish fine details that would otherwise be too small to see with the naked eye.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Magnifying them"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "While ordinary light microscope is used to ______ examine ______ specimens, phase contrast microscope is used to examine ______ specimens.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Light Microscopy Techniques</h4><p>An ordinary light microscope is used to <strong>stain and examine dead, fixed</strong> specimens. The phase-contrast microscope, however, is used to examine <strong>live, unstained</strong> specimens by exploiting differences in refractive index to create contrast, allowing observation of living processes without killing the cells.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "stain and examine dead, fixed / live, unstained"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Calcium oxalate crystals in cells are best observed with ______.",
+        "type": "OBJ",
+        "options": ["Ordinary light microscope", "Phase-contrast microscope", "Differential interference contrast microscope", "Polarizing microscope", "All of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Observing Crystalline Structures</h4><p>Calcium oxalate crystals are birefringent (they split light into two rays), making them best observed with a <strong>polarizing microscope</strong>. This type of microscope uses polarized light to highlight the crystalline structure, making them stand out vividly against the background.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Polarizing microscope"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Scanning Electron Microscope can reveal a ______ image.",
+        "type": "OBJ",
+        "options": ["One Dimensional", "Two Dimensional", "Three Dimensional", "Four Dimensional", "Five Dimensional"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SEM: Surface Topography</h4><p>Scanning Electron Microscopes (SEM) produce a <strong>three-dimensional (3D)</strong> image of a specimen's surface. They scan the surface with a focused beam of electrons and detect secondary electrons emitted from the surface, creating an image with a high depth of field that shows the topography in great detail.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Three Dimensional"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Shadowing is observed mainly in ______.",
+        "type": "OBJ",
+        "options": ["Transmission Electron Microscope", "Differential Interference Contrast Microscope", "Scanning Electron Microscope", "Freeze-Fraction Electron Microscope", "None of the Above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Shadowing Technique</h4><p>Shadowing is a metal coating technique observed mainly in <strong>Freeze-Fracture Electron Microscopy</strong>. After fracturing a frozen specimen, a thin layer of metal (like platinum) is evaporated at an angle, creating a 'shadow' that reveals the three-dimensional topography of the fractured surface at high resolution.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Freeze-Fraction Electron Microscope"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Freeze-Fracture Electron microscope provides the method of visualizing the ______.",
+        "type": "OBJ",
+        "options": ["Cell wall", "Cell membranes", "Mitochondria", "Endoplasmic reticulum", "Interior of cell membranes"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Visualizing Membrane Interior</h4><p>Freeze-fracture EM is unique for visualizing the <strong>interior of cell membranes</strong>. The process splits the lipid bilayer along its hydrophobic interior, allowing researchers to examine the arrangement, distribution, and density of integral membrane proteins embedded within the membrane.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Interior of cell membranes"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biology", "Microscopy"],
+    "Question": {
+        "content": "Cryoprotectants are used in ______.",
+        "type": "OBJ",
+        "options": ["Scanning Electron Microscope", "Polarizing Microscope", "Freeze-Etch Electron Microscope", "Freeze-Fracture Electron Microscope", "All of the Above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protecting Specimens During Freezing</h4><p>Cryoprotectants, such as glycerol, are used in both <strong>Freeze-Fracture and Freeze-Etch Electron Microscopy</strong>. These substances protect the specimen from ice crystal damage during the freezing process, preserving the fine structural details of the biological sample for subsequent fracturing and etching.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Freeze-Fracture Electron Microscope"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+        "content": "Organelles and Macromolecules are separated from cell by ______ techniques.",
+        "type": "OBJ",
+        "options": ["Biochemical", "Hormonal", "Staining", "Ultracentrifugation", "Filtration"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Fractionation</h4><p><strong>Ultracentrifugation</strong> is the primary technique used to separate organelles and macromolecules. This process spins homogenized cells at extremely high speeds, causing components to sediment based on their size, shape, and density, allowing for the isolation and study of specific cellular parts.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Ultracentrifugation"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Biology", "Biochemistry"],
+    "Question": {
+        "content": "Proteins are separated by ______ techniques.",
+        "type": "OBJ",
+        "options": ["Light Microscope", "Polarizing Microscope", "Electron Microscope", "Chromatography", "All of Above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Separation Methods</h4><p><strong>Chromatography</strong> is a suite of techniques used to separate proteins. Different forms, such as gel filtration, ion-exchange, and affinity chromatography, exploit differences in protein properties (size, charge, binding affinity) to isolate and purify specific proteins from complex mixtures.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Chromatography"
+    }
+},
+{
+    "type": "heading",
+    "heading": "Section B"
+},
+{
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Biology", "Cell Biology", "Metabolism"],
+    "Question": {
+        "content": "Living cells are constantly very active performing several metabolic activities that range from the uptake of macromolecules to the synthesis and oxidation of many others.",
+        "type": "OBJ",
+        "options": ["False", "True", "Undecided", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Activity</h4><p>Living cells are indeed constantly active, performing numerous metabolic activities including the uptake of macromolecules, synthesis of new molecules, and oxidation reactions for energy production. This statement is <strong>True</strong> as it reflects the dynamic nature of cellular metabolism.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Biology", "Cell Biology", "Metabolism"],
+    "Question": {
+        "content": "Two aspects of cellular metabolism are important, namely:",
+        "type": "OBJ",
+        "options": ["Cell interaction with biophysical environment and the energetics of a functioning cell", "Biophysical environment and metabolism", "Cell interaction and metabolism", "Energetics of a functioning cell and metabolism"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Important Aspects of Cellular Metabolism</h4><p>The two important aspects of cellular metabolism are <strong>cell interaction with the biophysical environment</strong> (how cells sense and respond to physical and chemical cues) and <strong>the energetics of a functioning cell</strong> (how cells acquire, transform, and utilize energy).</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Cell interaction with biophysical environment and the energetics of a functioning cell"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Biology", "Cell Biology", "Cellular Energetics"],
+    "Question": {
+        "content": "Which of these is not one of the processes of exchange of material in cellular energetics?",
+        "type": "OBJ",
+        "options": ["Plasmolysis", "Turgidity", "Osmosis", "Sublimation"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Material Exchange Processes</h4><p><strong>Sublimation</strong> is a physical process where a solid changes directly to a gas without becoming liquid. It is not a biological process involved in cellular material exchange. Plasmolysis, turgidity, and osmosis are all cellular processes related to water movement and material exchange.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Sublimation"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biology", "Cell Biology", "Diffusion"],
+    "Question": {
+        "content": "The movement of molecules or ions or gases from a region of higher concentration to that of lower concentration is called:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Sublimation", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Diffusion</h4><p>This movement is called <strong>Diffusion</strong>. It is the passive net movement of particles from an area of high concentration to an area of low concentration, driven by the kinetic energy of the particles until equilibrium is reached.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Diffusion"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Biology", "Plant Physiology", "Diffusion"],
+    "Question": {
+        "content": "Root hairs in soil solution obtain dissolved oxygen by:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Sublimation", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Oxygen Uptake by Roots</h4><p>Root hairs obtain dissolved oxygen by <strong>Diffusion</strong>. Oxygen concentration is higher in the soil solution than inside root cells, so oxygen molecules move down their concentration gradient across the cell membrane.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Diffusion"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Biology", "Human Physiology", "Diffusion"],
+    "Question": {
+        "content": "The exchange of food and other materials between a mother and the foetus across the placenta is through:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Sublimation", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Placental Exchange</h4><p>Exchange of materials across the placenta occurs primarily through <strong>Diffusion</strong>. Oxygen, nutrients, and waste products move down their concentration gradients between maternal and fetal blood without direct mixing of blood.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Diffusion"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Biology", "Cell Biology", "Osmosis"],
+    "Question": {
+        "content": "The absorption of water by unicellular plants and animals is by:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Sublimation", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Water Absorption in Unicellular Organisms</h4><p>Water absorption by unicellular plants and animals occurs through <strong>Osmosis</strong>. Water moves across the semi-permeable cell membrane from an area of higher water potential (dilute solution) to an area of lower water potential (more concentrated cytoplasm).</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Osmosis"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Biology", "Human Physiology", "Osmosis"],
+    "Question": {
+        "content": "Water from tissue fluid usually enters capillaries through:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Turgidity", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Capillary Exchange</h4><p>Water from tissue fluid enters capillaries through <strong>Osmosis</strong>. At the venule end of capillaries, blood has lower hydrostatic pressure but higher osmotic pressure due to plasma proteins, drawing water back into the capillaries.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Osmosis"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Biology", "Plant Physiology", "Osmosis"],
+    "Question": {
+        "content": "Most plant cells are usually compared with their surrounding",
+        "type": "OBJ",
+        "options": ["Hypertonic", "Hypotonic", "Hypergolic", "Hypoglycemic"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plant Cells and Tonicity</h4><p>Most plant cells are <strong>Hypertonic</strong> compared to their surrounding environment (soil solution or water). This means they have a higher solute concentration inside, causing water to enter by osmosis, creating turgor pressure that keeps the plant rigid.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Hypertonic"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Biology", "Plant Physiology", "Plasmolysis"],
+    "Question": {
+        "content": "When a living cell such as Spirogyra is placed in a concentrated salt solution, the cell undergoes:",
+        "type": "OBJ",
+        "options": ["Osmosis", "Diffusion", "Turgidity", "Plasmolysis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plasmolysis</h4><p>The cell undergoes <strong>Plasmolysis</strong>. In a concentrated salt solution (hypertonic environment), water moves out of the cell by osmosis, causing the protoplast to shrink and pull away from the cell wall.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Plasmolysis"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Biology", "Cell Biology", "Nutrition"],
+    "Question": {
+        "content": "Includes all the activities by which the cell obtains its nourishment or food.",
+        "type": "OBJ",
+        "options": ["Nutrition", "Growth", "Digestion", "Photosynthesis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nutrition</h4><p><strong>Nutrition</strong> encompasses all activities by which a cell obtains its nourishment or food. This includes ingestion, digestion, absorption, and assimilation of nutrients required for energy, growth, and maintenance.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Nutrition"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Biology", "Nutrition", "Plant Physiology"],
+    "Question": {
+        "content": "Which of these is not a major or macro element?",
+        "type": "OBJ",
+        "options": ["Calcium", "Carbon", "Potassium", "Iron"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macro vs Micro Elements</h4><p><strong>Iron</strong> is not a major (macro) element; it is a micronutrient (trace element). Major elements required in large amounts by plants include Carbon, Hydrogen, Oxygen, Nitrogen, Phosphorus, Potassium, Calcium, Magnesium, and Sulfur.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Iron"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Biology", "Nutrition", "Autotrophs"],
+    "Question": {
+        "content": "Cells that can synthesise their food are called:",
+        "type": "OBJ",
+        "options": ["Phototrophs", "Autotrophs", "Heterotrophs", "Epiphytes"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Autotrophs</h4><p>Cells that can synthesize their own food are called <strong>Autotrophs</strong>. They use inorganic sources like carbon dioxide and water, along with energy from sunlight (photoautotrophs) or chemical reactions (chemoautotrophs), to produce organic compounds.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Autotrophs"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Biology", "Cell Biology", "Respiration"],
+    "Question": {
+        "content": "Respiration is the process by which a cell obtains its energy.",
+        "type": "OBJ",
+        "options": ["False", "True", "Indifferent", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Respiration</h4><p>This statement is <strong>True</strong>. Cellular respiration is the process by which cells break down organic molecules (such as glucose) to release energy in the form of ATP (adenosine triphosphate), which powers cellular activities.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Biology", "Cell Biology", "Bioenergetics"],
+    "Question": {
+        "content": "The energy released by the cell is partly in the form of heat and useful energy.",
+        "type": "OBJ",
+        "options": ["False", "True", "Indifferent", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Release</h4><p>This statement is <strong>True</strong>. During cellular respiration, energy is released and captured in ATP (useful energy), but some energy is inevitably lost as heat due to the second law of thermodynamics, contributing to body temperature regulation in animals.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Biology", "Plant Physiology", "Metabolism"],
+    "Question": {
+        "content": "Which of these is a waste product?",
+        "type": "OBJ",
+        "options": ["Resins", "Gums", "tannins", "All of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plant Waste Products</h4><p><strong>All of the above</strong> are waste products. Resins, gums, and tannins are secondary metabolites and excretory products stored in plant cells, often serving protective functions but classified as metabolic waste.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "All of the above"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Biology", "Plant Physiology", "Irritability"],
+    "Question": {
+        "content": "In irritability, if the movement is away from the source of stimulus it is said to be a:",
+        "type": "OBJ",
+        "options": ["Positive stimulus", "Negative stimulus", "Nastic response", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tropisms</h4><p>If movement is away from the source of stimulus, it is called a <strong>Negative stimulus</strong> response (negative tropism). For example, negative phototropism is growth away from light, while positive tropism is growth toward the stimulus.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Negative stimulus"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Biology", "Cell Biology", "Laticiferous Structures"],
+    "Question": {
+        "content": "Which of these is not a laticiferous structure?",
+        "type": "OBJ",
+        "options": ["Cilia", "Flagella", "Pseudopodia", "All of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Laticiferous Structures</h4><p><strong>All of the above</strong> are not laticiferous structures. Laticiferous structures are specialized plant cells (laticifers) that produce and transport latex. Cilia, flagella, and pseudopodia are cell motility structures found in various organisms, not plant latex-producing structures.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "All of the above"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Biology", "Reproduction", "Gametes"],
+    "Question": {
+        "content": "In a gametic reproduction:",
+        "type": "OBJ",
+        "options": ["Sperm", "Ovum", "Egg", "zygote"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gametic Reproduction</h4><p>In gametic reproduction, the fusion of male gamete (sperm) and female gamete (ovum/egg) produces a <strong>zygote</strong>. The zygote is the diploid cell resulting from fertilization that develops into a new individual.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "zygote"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Biology", "Reproduction", "Asexual Reproduction"],
+    "Question": {
+        "content": "The formation of new individual from the vegetative parts of the parent describes:",
+        "type": "OBJ",
+        "options": ["Sexual reproduction", "Asexual reproduction", "Propagation", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vegetative Propagation</h4><p>This describes <strong>Asexual reproduction</strong> (specifically vegetative propagation). New individuals arise from vegetative parts (stems, roots, leaves) without the fusion of gametes, producing genetically identical offspring (clones).</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Asexual reproduction"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Biology", "Cell Division", "Meiosis"],
+    "Question": {
+        "content": "The cell division that occurs in cell of the reproductive tissues leading to the formation of gametes is referred to as:",
+        "type": "OBJ",
+        "options": ["Mitosis", "Meiosis"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gamete Formation</h4><p>This division is <strong>Meiosis</strong>. Meiosis occurs in reproductive tissues (testes and ovaries) to produce haploid gametes (sperm and eggs) from diploid germ cells, reducing chromosome number by half.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Meiosis"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Biology", "Cell Division", "Cell Cycle"],
+    "Question": {
+        "content": "The period between the end of one cell division and the beginning of the next one is called:",
+        "type": "OBJ",
+        "options": ["Interphase", "Prophase"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cell Cycle</h4><p>This period is called <strong>Interphase</strong>. It is the longest phase of the cell cycle, during which the cell grows, performs normal functions, and replicates its DNA in preparation for the next division.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Interphase"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Biology", "Cell Division", "Mitosis"],
+    "Question": {
+        "content": "Which of these is not a phase in cell division?",
+        "type": "OBJ",
+        "options": ["Meriphase", "Telophase", "Anaphase", "Metaphase"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phases of Mitosis</h4><p><strong>Meriphase</strong> is not a recognized phase of cell division. The correct phases of mitosis are Prophase, Metaphase, Anaphase, and Telophase (PMAT). Interphase is the preparatory stage.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Meriphase"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Biology", "Cell Division", "Meiosis"],
+    "Question": {
+        "content": "In gametophytic tissues of the testis and ovary, meiosis reduces chromosome number making it:",
+        "type": "OBJ",
+        "options": ["Haploid", "Diploid", "Triploid", "Quadriploid"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chromosome Reduction</h4><p>Meiosis reduces the chromosome number to <strong>Haploid</strong> (n). Starting with diploid (2n) germ cells, after two meiotic divisions, four haploid gametes are produced, each containing half the chromosome number of the parent cell.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Haploid"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Biology", "Reproduction", "Gametogenesis"],
+    "Question": {
+        "content": "The two types of gametogenesis are:",
+        "type": "OBJ",
+        "options": ["Oogenesis and oocyte", "Oocyte and spermatogenesis", "Oogenesis and spermatogenesis", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gametogenesis Types</h4><p>The two types of gametogenesis are <strong>Oogenesis and spermatogenesis</strong>. Oogenesis is the formation of female gametes (ova) in the ovaries, while spermatogenesis is the formation of male gametes (sperm) in the testes.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Oogenesis and spermatogenesis"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Biology", "Cell Division", "Mitosis vs Meiosis"],
+    "Question": {
+        "content": "One of the differences between mitosis and meiosis is that mitosis is completed in only one phase while meiosis is usually completed in two phases (Meiosis I and Meiosis II).",
+        "type": "OBJ",
+        "options": ["True", "False"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitosis vs Meiosis</h4><p>This statement is <strong>True</strong>. Mitosis involves one division cycle (prophase, metaphase, anaphase, telophase), producing two diploid daughter cells. Meiosis involves two successive divisions (Meiosis I and Meiosis II), producing four haploid daughter cells.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Biology", "Cell Division", "Spindle Fibers"],
+    "Question": {
+        "content": "Spindle fibres are composed of microtubule proteins which can assemble depending on the need of the cells.",
+        "type": "OBJ",
+        "options": ["True", "False"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spindle Fiber Composition</h4><p>This statement is <strong>True</strong>. Spindle fibers are composed of microtubules made of tubulin proteins. They are dynamic structures that assemble during prophase, attach to chromosomes, and disassemble after cell division, responding to cellular needs.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Biology", "Reproduction", "Alternation of Generations"],
+    "Question": {
+        "content": "The cycle involving the haploid and diploid phases of the same organism is known as Alternation of Generation.",
+        "type": "OBJ",
+        "options": ["True", "False"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Alternation of Generations</h4><p>This statement is <strong>True</strong>. Alternation of generations refers to the life cycle pattern where an organism alternates between a haploid (gametophyte) phase and a diploid (sporophyte) phase. This is common in plants, algae, and some fungi.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "True"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Biology", "Cell Division", "Meiosis"],
+    "Question": {
+        "content": "In meiosis I, the chromosomes pair according to their identity or similarity, such pairing chromosomes are known as ......",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Homologous Chromosomes</h4><p>Such pairing chromosomes are known as <strong>Homologous chromosomes</strong> or <strong>Bivalents</strong>. Homologous chromosomes are pairs of chromosomes (one from each parent) that are similar in length, gene position, and centromere location. During prophase I of meiosis, they synapse to form tetrads.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Homologous chromosomes (or bivalents)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Biology", "Reproduction", "Asexual Reproduction"],
+    "Question": {
+        "content": "The agricultural practice of budding, layering and stem cutting are propagation methods which benefit from the ...... process.",
+        "type": "OBJ",
+        "options": ["Meiosis", "Mitotic", "Gametophytic", "None of the above"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vegetative Propagation and Mitosis</h4><p>These propagation methods benefit from the <strong>Mitotic</strong> process. Budding, layering, and stem cutting are forms of asexual reproduction that rely on mitosis to produce genetically identical offspring from vegetative parts, ensuring desirable traits are preserved.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Mitotic"
+    }
+},
+{
+    "type": "heading",
+    "heading": "Section C"
+},
+{
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Biology", "Cell Biology", "Cell Size"],
+    "Question": {
+        "content": "Most eukaryotic cells are of ...... range in cell size",
+        "type": "OBJ",
+        "options": ["0.1 to 10 μm", "10 to 100 μm", "1 to 2 mm", "10 to 50 mm", "0.2 to 2 cm"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotic Cell Size</h4><p>Most eukaryotic cells range from <strong>10 to 100 μm</strong> (micrometers) in diameter. This is approximately 10 to 100 times larger than typical prokaryotic cells (0.1-5.0 μm). Examples include human cells (10-30 μm) and plant cells (10-100 μm).</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "10 to 100 μm"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes vs Eukaryotes"],
+    "Question": {
+        "content": "The major difference between eukaryotic and prokaryotic cells is that",
+        "type": "OBJ",
+        "options": ["prokaryotic cells have a nucleus", "membrane", "prokaryotic cells have a nucleolus", "eukaryotes have nuclei", "chlorophyll"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Presence of a Nucleus</h4><p>The major difference is that <strong>eukaryotes have nuclei</strong> (membrane-bound organelles containing genetic material), while prokaryotes lack a true nucleus. Eukaryotic cells also have other membrane-bound organelles absent in prokaryotes.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "eukaryotes have nuclei"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Biology", "Cell Biology", "Genetics"],
+    "Question": {
+        "content": "Cell genetic material is stored in the cell",
+        "type": "OBJ",
+        "options": ["Endoplasmic Reticulum", "Mitochondria", "Nucleus", "Vacuoles", "centriole"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Storage of Genetic Material</h4><p>Cell genetic material (DNA) is primarily stored in the <strong>Nucleus</strong>. The nucleus contains chromosomes, which carry the cell's hereditary information. Mitochondria and chloroplasts also contain small amounts of DNA, but the nucleus is the main storage site.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Nucleus"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Biology", "Cell Biology", "Plant Cells"],
+    "Question": {
+        "content": "...... is a structure found in plant cells only",
+        "type": "OBJ",
+        "options": ["Nucleus", "Mitochondrion", "Plastid", "Golgi Apparatus", "ribosome"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plant-Specific Structures</h4><p><strong>Plastid</strong> is a structure found in plant cells only (and some algae). Plastids include chloroplasts (photosynthesis), chromoplasts (pigment storage), and leucoplasts (starch storage). Animal cells lack plastids.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Plastid"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes"],
+    "Question": {
+        "content": "The complex carbohydrate called peptidoglycan is found in",
+        "type": "OBJ",
+        "options": ["Eukaryotes", "Algae", "Animal Cells", "Prokaryotes", "Viruses"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peptidoglycan</h4><p>Peptidoglycan (murein) is found in <strong>Prokaryotes</strong>, specifically in the cell walls of bacteria. It is a polymer consisting of sugars and amino acids that provides structural strength. Eukaryotes, algae, animal cells, and viruses do not have peptidoglycan.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Prokaryotes"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Biology", "Cell Biology", "Lysosomes"],
+    "Question": {
+        "content": "\"Suicide bags\" are responsible for ......",
+        "type": "OBJ",
+        "options": ["Cellular defense", "maintenance of cell shape", "food synthesis", "storage of waste products", "energy generation"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lysosomes (Suicide Bags)</h4><p>Lysosomes are called \"suicide bags\" and are responsible for <strong>Cellular defense</strong>. They contain hydrolytic enzymes that digest foreign materials, worn-out organelles, and can even cause autolysis (self-digestion) of the cell when damaged.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Cellular defense"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Biology", "Cell Biology", "Cell Structures"],
+    "Question": {
+        "content": "...... is not an extracellular structure",
+        "type": "OBJ",
+        "options": ["Flagella", "Microvilli", "Cilia", "Plasma membrane", "Fimbriae"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Extracellular vs Intracellular</h4><p>The <strong>Plasma membrane</strong> is not an extracellular structure; it is the boundary of the cell itself. Flagella, microvilli, cilia, and fimbriae are projections extending from the cell surface into the extracellular environment.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Plasma membrane"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Biology", "Cell Biology", "Cell Organization"],
+    "Question": {
+        "content": "Cell are found to occur in all of these forms except ......",
+        "type": "OBJ",
+        "options": ["Unicell", "Filamentous cells", "Colonial cells", "Multicell", "prokaryotes"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Forms of Cellular Organization</h4><p>Cells occur in all these forms except <strong>prokaryotes</strong> as a form. Prokaryotes are a type of cell (lacking nucleus), not a form of organization. Unicellular, filamentous, colonial, and multicellular are organizational forms that can apply to both prokaryotes and eukaryotes.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "prokaryotes"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes"],
+    "Question": {
+        "content": "...... is not a feature of prokaryotes",
+        "type": "OBJ",
+        "options": ["Capsule", "Cell Wall", "Genetic Material", "Spore", "Nucleus"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Features</h4><p>A <strong>Nucleus</strong> is not a feature of prokaryotes. Prokaryotes lack a membrane-bound nucleus; their genetic material is located in the nucleoid region. Capsules, cell walls, genetic material, and endospores are features found in many prokaryotes.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Nucleus"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes"],
+    "Question": {
+        "content": "Dense network of genetic material in the cytoplasm of prokaryotic cells is called",
+        "type": "OBJ",
+        "options": ["nucleus", "nucleoplasm", "nucleolus", "nucleoid", "protoplasm"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Nucleoid</h4><p>This dense network is called the <strong>Nucleoid</strong>. It is the irregularly-shaped region in prokaryotic cells where the circular DNA is located, not enclosed by a membrane, unlike the eukaryotic nucleus.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "nucleoid"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Biology", "Cell Biology", "Cell Wall"],
+    "Question": {
+        "content": "Cell wall is present in all of the following except",
+        "type": "OBJ",
+        "options": ["bacterial cell", "fungal cell", "plant cell", "algal cells", "red blood cells"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cells with Cell Walls</h4><p>Cell walls are present in all except <strong>red blood cells</strong> (animal cells). Bacterial cells have peptidoglycan walls, fungal cells have chitin walls, plant cells have cellulose walls, and algal cells have various cell wall compositions. Animal cells lack cell walls.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "red blood cells"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+        "content": "All cells are the same in every respects",
+        "type": "OBJ",
+        "options": ["true", "false", "all of the above", "none of the above", "animal cells"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Diversity</h4><p>This statement is <strong>false</strong>. Cells vary greatly in size, shape, structure, and function. Prokaryotic and eukaryotic cells differ, and within eukaryotes, plant, animal, fungal, and protist cells have distinct features and organelles.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "false"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Biology", "Cell Biology", "Vacuoles"],
+    "Question": {
+        "content": "The cell vacuole membrane is called ......",
+        "type": "OBJ",
+        "options": ["cell wall", "plasma membrane", "chloroplast", "leucoplast", "tonoplast"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tonoplast</h4><p>The vacuole membrane is called the <strong>Tonoplast</strong>. It is a selectively permeable membrane that surrounds the central vacuole in plant cells, regulating the movement of ions and water between the vacuole and the cytoplasm.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "tonoplast"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Biology", "Cell Biology", "Endoplasmic Reticulum"],
+    "Question": {
+        "content": "Rough endoplasmic reticulum are distinguished from smooth endoplasmic reticulum by having ...... on their surfaces",
+        "type": "OBJ",
+        "options": ["tubules", "ribosomes", "proteins", "glucose molecules", "nothing"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rough vs Smooth ER</h4><p>Rough ER is distinguished by having <strong>ribosomes</strong> attached to its surface, giving it a \"rough\" appearance. Smooth ER lacks ribosomes. Ribosomes on RER synthesize proteins destined for secretion or membrane insertion.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "ribosomes"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Biology", "Cell Biology", "Mitochondria"],
+    "Question": {
+        "content": "...... is also called the power house of the cell",
+        "type": "OBJ",
+        "options": ["nucleus", "cytoplasm", "cell membrane", "ribosome", "mitochondria"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitochondria: Powerhouse of the Cell</h4><p><strong>Mitochondria</strong> is called the powerhouse of the cell. They generate most of the cell's supply of ATP (adenosine triphosphate) through cellular respiration, providing energy for cellular activities.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "mitochondria"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Biology", "Cell Biology", "Chloroplasts"],
+    "Question": {
+        "content": "Chloroplast contain ...... coloured pigments",
+        "type": "OBJ",
+        "options": ["colourless", "red", "green", "brown", "pink"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chlorophyll</h4><p>Chloroplasts contain <strong>green</strong> colored pigments called chlorophyll. Chlorophyll is the primary pigment involved in photosynthesis, absorbing light energy (mainly blue and red wavelengths) and reflecting green light.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "green"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Biology", "Cell Biology", "Vacuoles"],
+    "Question": {
+        "content": "Cell vacuole membrane is called ......",
+        "type": "OBJ",
+        "options": ["tonoplast", "cell membrane", "outer membrane", "plasma membrane", "plasmalemma"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tonoplast</h4><p>The vacuole membrane is called the <strong>Tonoplast</strong>. It is a single membrane that surrounds the vacuole, controlling the transport of substances in and out. The plasma membrane/plasmalemma is the outer boundary of the cell.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "tonoplast"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Biology", "Cell Biology", "Ribosomes"],
+    "Question": {
+        "content": "Ribosomes are made of ......",
+        "type": "OBJ",
+        "options": ["RNA and phosphates", "RNA and proteins", "RNA and lipids", "RNA and DNA", "phosphates and proteins"]
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ribosome Composition</h4><p>Ribosomes are made of <strong>RNA and proteins</strong>. They consist of two subunits (large and small) composed of ribosomal RNA (rRNA) and ribosomal proteins. They are the site of protein synthesis (translation).</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "RNA and proteins"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Biology", "Genetics", "Molecular Biology"],
+    "Question": {
+        "content": "What is the full meaning of DNA......",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Full Form</h4><p>DNA stands for <strong>Deoxyribonucleic Acid</strong>. It is the hereditary material in all living organisms, containing the genetic instructions for development, functioning, growth, and reproduction.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Deoxyribonucleic Acid"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Biology", "Biochemistry", "Molecular Biology"],
+    "Question": {
+        "content": "How is RNA different from ATP......",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>RNA vs ATP Differences</h4><p>RNA (Ribonucleic Acid) is a nucleic acid involved in protein synthesis and gene regulation; it contains ribose sugar, phosphate, and nitrogenous bases (A, U, G, C). ATP (Adenosine Triphosphate) is an energy carrier molecule; it consists of adenine + ribose + three phosphate groups. RNA is a polymer, ATP is a single nucleotide with high-energy bonds.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "RNA is a nucleic acid polymer for genetic information transfer; ATP is a single nucleotide energy carrier with three phosphates."
+    }
+},
+{
+    "type": "heading",
+    "heading": "Section D",
+    "Subheading": "Fill in the Blanks (Questions 71–90)"
+},
+{
+    "type": "Question",
+    "name": "Question 71",
+    "topic": ["Biochemistry", "Cell Biology", "Marker Molecules"],
+    "Question": {
+        "content": "A _______ is a specific molecule found almost exclusively in a certain cellular component due to its function.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Marker Molecules</h4><p>Every organelle in a cell has a <strong style='color: var(--strongColor);'>marker molecule</strong> — a substance found almost exclusively in that organelle because of what that organelle does.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Examples:</strong><br>• Mitochondria → Cytochrome c<br>• Nucleus → Chromatin<br>• Chloroplast → Chlorophyll</div><p style='margin-top: 10px;'>These markers are used in labs to identify and isolate specific organelles.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Marker molecule"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 72",
+    "topic": ["Cell Biology", "Nutrition", "Life Characteristics"],
+    "Question": {
+        "content": "A well-fed cell exhibits all the characteristics of _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>A Well-Fed Cell</h4><p>When a cell receives adequate nutrients, it is able to carry out all its normal processes — growth, reproduction, metabolism, response to stimuli, etc.</p><p>These are collectively known as the <strong style='color: var(--strongColor);'>characteristics of life</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Key characteristics include:</strong> Growth, Metabolism, Reproduction, Excretion, Responsiveness.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Life"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 73",
+    "topic": ["Nutrition", "Biomolecules", "Macronutrients"],
+    "Question": {
+        "content": "The 5 classes of _______ are: Carbohydrates, lipids, proteins, nucleic acids, and genes.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Classes of Biomolecules</h4><p><strong style='color: var(--strongColor);'>Biomolecules</strong> are the chemical substances found in living organisms. The five major classes are:</p><ol style='margin-top: 8px;'><li>Carbohydrates</li><li>Lipids</li><li>Proteins</li><li>Nucleic acids</li><li>Genes (genetic material)</li></ol><p style='margin-top: 8px;'>Each class has a unique structure and plays a distinct role in the cell's survival and function.</p></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Biomolecules"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 74",
+    "topic": ["Nutrition", "Proteins", "Diet"],
+    "Question": {
+        "content": "Combining many foods from plants complements the protein intake in our _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Protein Complementation</h4><p>Most plant foods are <strong>incomplete proteins</strong> — they lack one or more essential amino acids. By combining different plant sources (e.g., rice + beans), we get a <strong style='color: var(--strongColor);'>complete amino acid profile</strong> in our <strong>diet</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Corn (low in lysine) + Beans (rich in lysine) = Complementary protein diet.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Diet"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 75",
+    "topic": ["Biochemistry", "Marker Molecules", "Plants", "Photosynthesis"],
+    "Question": {
+        "content": "Chlorophyll is the marker for _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Chlorophyll as a Marker</h4><p><strong style='color: var(--strongColor);'>Chlorophyll</strong> is the green pigment responsible for photosynthesis. It is found <em>almost exclusively</em> in the <strong>chloroplast</strong>, making it the definitive marker for that organelle.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>Chloroplasts are found only in plant cells and some algae — so chlorophyll is also used as a marker for <strong>plants</strong> in a broader sense.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Chloroplasts (plants)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 76",
+    "topic": ["Nutrition", "Balanced Diet", "Diet Components"],
+    "Question": {
+        "content": "A healthy meal contains most of the following components. List the major components of a healthy/balanced meal.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Components of a Healthy Meal</h4><p>A balanced diet must provide all essential nutrients for proper body function. The major components are:</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;'><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Carbohydrates</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Proteins</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Lipids</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Vitamins</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Minerals</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Water</span><span style='background: var(--infoBg); color: var(--infoCl); padding: 4px 8px; border-radius: 4px;'>Fibre</span></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Carbohydrates + Proteins + Lipids + Vitamins + Minerals + Water + Fibre"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 77",
+    "topic": ["Nutrition", "Carbohydrates", "Biochemistry"],
+    "Question": {
+        "content": "The basic unit of carbohydrates is _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Basic Unit of Carbohydrates</h4><p>Carbohydrates are built from repeating units called <strong style='color: var(--strongColor);'>monosaccharides</strong>. The most common monosaccharide is <strong>glucose</strong> \\( (C_6H_{12}O_6) \\).</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Chain of units:</strong><br>Monosaccharide → Disaccharide → Polysaccharide<br><em>e.g., Glucose → Sucrose → Starch</em></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Monosaccharide (glucose)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 78",
+    "topic": ["Nutrition", "Proteins", "Amino Acids", "Infant Nutrition"],
+    "Question": {
+        "content": "The amino acids essential to infants are _______ and _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Amino Acids Essential for Infants</h4><p>Adults need <strong>8 essential amino acids</strong>, but infants additionally require <strong style='color: var(--strongColor);'>Histidine</strong> and <strong style='color: var(--strongColor);'>Arginine</strong> because their bodies cannot yet synthesize them in sufficient amounts.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Why?</strong> Infants have immature metabolic pathways, so they depend entirely on dietary sources for these two amino acids during early development.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Histidine and Arginine"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 79",
+    "topic": ["Biochemistry", "Marker Molecules", "Muscle", "Proteins"],
+    "Question": {
+        "content": "Actin and Myosin are markers for red _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Actin &amp; Myosin as Muscle Markers</h4><p><strong style='color: var(--strongColor);'>Actin</strong> and <strong style='color: var(--strongColor);'>Myosin</strong> are the two major contractile proteins found in muscle cells. Their interaction drives muscle contraction.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Red muscle fibers</strong> are rich in mitochondria and myoglobin — they rely on aerobic respiration and are associated with sustained activity. Actin and myosin are their definitive protein markers.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Muscle (red muscle fibers)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 80",
+    "topic": ["Nutrition", "Infant Nutrition", "Lipids"],
+    "Question": {
+        "content": "Human milk, cow milk and baby formula are food sources for _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Milk-Based Food Sources</h4><p>Human breast milk, cow milk, and baby formula are all designed to meet the complete nutritional needs of <strong style='color: var(--strongColor);'>infants</strong>. They provide essential fats, proteins, carbohydrates, and micronutrients.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Note:</strong> Human milk is the gold standard — it also contains antibodies (immunoglobulins) that protect the infant from infections.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Infants"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 81",
+    "topic": ["Nutrition", "Lipids", "Biochemistry"],
+    "Question": {
+        "content": "The basic unit of lipids is _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Basic Unit of Lipids</h4><p>Lipids (fats) are made of <strong style='color: var(--strongColor);'>glycerol</strong> and <strong style='color: var(--strongColor);'>fatty acids</strong>. One glycerol molecule bonds with up to three fatty acid chains to form a <strong>triglyceride</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Structure:</strong><br>Glycerol + 3 Fatty Acids → Triglyceride (the most common dietary fat)</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Glycerol and fatty acids"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 82",
+    "topic": ["Biochemistry", "Marker Molecules", "Lipids", "Plants"],
+    "Question": {
+        "content": "Saponin is the marker for _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Saponin as a Marker</h4><p><strong style='color: var(--strongColor);'>Saponin</strong> is a class of phytochemicals (plant chemicals) found predominantly in <strong>legumes</strong> such as beans, peas, and soybeans. It acts as a natural detergent — it foams when mixed with water.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Used as a marker for:</strong> Legumes / Plant cell membranes<br><em>Saponins bind to cholesterol in membranes and can be used to permeabilize cells in lab settings.</em></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Legumes (plant membranes)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 83",
+    "topic": ["Nutrition", "Proteins", "Biochemistry"],
+    "Question": {
+        "content": "The basic unit of proteins is _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Basic Unit of Proteins</h4><p>Proteins are long chains of <strong style='color: var(--strongColor);'>amino acids</strong> linked by peptide bonds. There are 20 standard amino acids, and the sequence in which they are arranged determines the protein's shape and function.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Chain:</strong> Amino acids → Peptide → Polypeptide → Protein</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Amino acid"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 84",
+    "topic": ["Nutrition", "Metabolism", "Cell Biology"],
+    "Question": {
+        "content": "_______ denotes the molecular interactions that break down all food intakes within the cells.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Metabolism</h4><p><strong style='color: var(--strongColor);'>Metabolism</strong> refers to all the chemical reactions that occur within a cell, especially those that break down nutrients to release energy.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Two arms of metabolism:</strong><br>• <strong>Catabolism</strong> — breaks down molecules (e.g., glucose → energy)<br>• <strong>Anabolism</strong> — builds up molecules (e.g., amino acids → proteins)</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Metabolism"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 85",
+    "topic": ["Cell Biology", "Marker Molecules", "Nucleus", "Biochemistry"],
+    "Question": {
+        "content": "Chromatin is the marker for _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Chromatin as a Nuclear Marker</h4><p><strong style='color: var(--strongColor);'>Chromatin</strong> is the complex of DNA and histone proteins found inside the nucleus. Because it is located almost exclusively in the nucleus, it serves as the nucleus's definitive <strong>marker molecule</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Remember:</strong> During cell division, chromatin condenses into visible <strong>chromosomes</strong>.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "The nucleus"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 86",
+    "topic": ["Nutrition", "Carbohydrates", "Starch"],
+    "Question": {
+        "content": "The starch found in cereals, potatoes, legumes, and vegetables is called a _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Type of Starch in Plants</h4><p>The starch stored in plant-based foods like cereals, potatoes, and legumes is classified as a <strong style='color: var(--strongColor);'>polysaccharide</strong> — specifically a <strong>complex carbohydrate</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Starch types:</strong><br>• <strong>Amylose</strong> — linear chain<br>• <strong>Amylopectin</strong> — branched chain<br>Both are polysaccharides made of many glucose units.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Polysaccharide (complex carbohydrate)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 87",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA", "RNA"],
+    "Question": {
+        "content": "The basic unit of nucleic acids is _______.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Basic Unit of Nucleic Acids</h4><p>Both DNA and RNA are nucleic acids built from repeating units called <strong style='color: var(--strongColor);'>nucleotides</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Each nucleotide has 3 parts:</strong><br>1. A <strong>nitrogenous base</strong> (A, T, G, C for DNA; A, U, G, C for RNA)<br>2. A <strong>pentose sugar</strong> (deoxyribose or ribose)<br>3. A <strong>phosphate group</strong></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Nucleotide"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 88",
+    "topic": ["Cell Biology", "Marker Molecules", "Mitochondria", "Biochemistry"],
+    "Question": {
+        "content": "The marker for mitochondria is _______ (_______).",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Mitochondrial Marker</h4><p>The classical enzyme marker for mitochondria is <strong style='color: var(--strongColor);'>Succinate Dehydrogenase (SDH)</strong>. It is found almost exclusively on the inner mitochondrial membrane and is central to the citric acid (Krebs) cycle.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Another common marker:</strong> Cytochrome c oxidase (also in the mitochondrial membrane).<br><em>SDH is the most cited biochemical marker in cell fractionation studies.</em></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Succinate Dehydrogenase (SDH)"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 89",
+    "topic": ["Biochemistry", "Carbohydrates", "Plants", "Glucose Metabolism"],
+    "Question": {
+        "content": "Glucose is converted to _______ to make up the _______ of plants.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Glucose → Cellulose (Cell Wall)</h4><p>In plants, glucose molecules are linked together to form <strong style='color: var(--strongColor);'>cellulose</strong>, the main structural component of the <strong style='color: var(--strongColor);'>cell wall</strong>.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Comparison:</strong><br>• Glucose → <strong>Cellulose</strong> → Cell wall (structural)<br>• Glucose → <strong>Starch</strong> → Storage (energy reserve)<br><em>Both are polysaccharides, but cellulose has \\( \\beta \\)-1,4 glycosidic bonds making it rigid.</em></div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Cellulose; cell wall"
+    }
+},
+{
+    "type": "Question",
+    "name": "Question 90",
+    "topic": ["Nutrition", "Proteins", "Amino Acids", "Nutrient Absorption"],
+    "Question": {
+        "content": "Essential and non-essential amino acids facilitate the _______ of all the other nutrients at optimum rate.",
+        "type": "subjective"
+    },
+    "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Amino Acids &amp; Nutrient Absorption</h4><p>Amino acids (both essential and non-essential) play a critical role in building the <strong>carrier proteins</strong> and <strong>enzymes</strong> needed for the <strong style='color: var(--strongColor);'>absorption</strong> of all other nutrients across the gut wall.</p><div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 8px;'><strong>Why this matters:</strong> Without adequate amino acids, the body cannot produce transport proteins like albumin or intestinal enzymes — causing malabsorption of vitamins, minerals, and other nutrients.</div></div>"
+    },
+    "Answer": {
+        "type": "string",
+        "content": "Absorption"
+    }
+}]
