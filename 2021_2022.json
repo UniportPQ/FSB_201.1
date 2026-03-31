@@ -16,7 +16,7 @@
   {
     "type": "Question",
     "name": "Question 1",
-    "topic": ["Biology", "Cell Biology"],
+    "topic": ["Biology"],
     "Question": {
       "content": "What are the building blocks with which the bodies of complex organisms are composed?",
       "type": "OBJ",
@@ -40,7 +40,7 @@
   {
     "type": "Question",
     "name": "Question 2",
-    "topic": ["Biology", "Cell Biology"],
+    "topic": ["Biology"],
     "Question": {
       "content": "What is the study of cells and their activities known as?",
       "type": "OBJ",
@@ -64,7 +64,7 @@
   {
     "type": "Question",
     "name": "Question 3",
-    "topic": ["Biology", "Cell Biology", "Origin of Life"],
+    "topic": ["Biology",  "Origin of Life"],
     "Question": {
       "content": "How are living cells thought to have arisen on Earth?",
       "type": "OBJ",
@@ -88,7 +88,7 @@
   {
     "type": "Question",
     "name": "Question 4",
-    "topic": ["Biology", "Cell Biology", "Evolution"],
+    "topic": ["Biology",  "Evolution"],
     "Question": {
       "content": "What are the earliest formed cells?",
       "type": "OBJ",
@@ -136,7 +136,7 @@
   {
     "type": "Question",
     "name": "Question 6",
-    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "topic": ["Biology",  "History of Science"],
     "Question": {
       "content": "Who used a compound microscope to describe small pores in sections of cork that he called “Cells”?",
       "type": "OBJ",
@@ -160,7 +160,7 @@
   {
     "type": "Question",
     "name": "Question 7",
-    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "topic": ["Biology",  "History of Science"],
     "Question": {
       "content": "Who discovered the cell nucleus?",
       "type": "OBJ",
@@ -184,7 +184,7 @@
   {
     "type": "Question",
     "name": "Question 8",
-    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "topic": ["Biology",  "History of Science"],
     "Question": {
       "content": "Who proposed the cell theory?",
       "type": "OBJ",
@@ -208,7 +208,7 @@
   {
     "type": "Question",
     "name": "Question 9",
-    "topic": ["Biology", "Cell Biology", "History of Science"],
+    "topic": ["Biology",  "History of Science"],
     "Question": {
       "content": "Who gave details on the structure, number, and division of the nucleus and chromosome?",
       "type": "OBJ",
@@ -362,7 +362,7 @@
   {
     "type": "Question",
     "name": "Question 27",
-    "topic": ["Cell Biology", "Eukaryotic Cells"],
+    "topic": [ "Eukaryotic Cells"],
     "Question": {
       "content": "Most eukaryotic cells are of the range of?",
       "type": "OBJ",
@@ -386,7 +386,7 @@
   {
     "type": "Question",
     "name": "Question 28",
-    "topic": ["Cell Biology", "Prokaryotes", "Eukaryotes"],
+    "topic": [ "Prokaryotes", "Eukaryotes"],
     "Question": {
       "content": "The major difference between eukaryotic and prokaryotic cells is that?",
       "type": "OBJ",
@@ -410,7 +410,7 @@
   {
     "type": "Question",
     "name": "Question 29",
-    "topic": ["Cell Biology", "Genetics"],
+    "topic": [ "Genetics"],
     "Question": {
       "content": "The genetic material of a cell are stored in the cell?",
       "type": "OBJ",
@@ -434,7 +434,7 @@
   {
     "type": "Question",
     "name": "Question 30",
-    "topic": ["Cell Biology", "Plant Cells"],
+    "topic": [ "Plant Cells"],
     "Question": {
       "content": "Which of the following organelles is only found in plant cells?",
       "type": "OBJ",
@@ -458,7 +458,7 @@
   {
     "type": "Question",
     "name": "Question 31",
-    "topic": ["Cell Biology", "Bacteria"],
+    "topic": [ "Bacteria"],
     "Question": {
       "content": "Peptidoglycan is a feature of?",
       "type": "OBJ",
@@ -482,7 +482,7 @@
   {
     "type": "Question",
     "name": "Question 32",
-    "topic": ["Cell Biology", "Immunology"],
+    "topic": [ "Immunology"],
     "Question": {
       "content": "______ is responsible for cellular defence.",
       "type": "OBJ",
@@ -554,7 +554,7 @@
   {
     "type": "Question",
     "name": "Question 35",
-    "topic": ["Cell Biology", "Prokaryotes"],
+    "topic": [ "Prokaryotes"],
     "Question": {
       "content": "Which of the following cellular structure is not associated with prokaryotes?",
       "type": "OBJ",
@@ -578,7 +578,7 @@
   {
     "type": "Question",
     "name": "Question 36",
-    "topic": ["Cell Biology", "Classification"],
+    "topic": [ "Classification"],
     "Question": {
       "content": "______ is not an example of eukaryote.",
       "type": "OBJ",
@@ -602,7 +602,7 @@
   {
     "type": "Question",
     "name": "Question 37",
-    "topic": ["Cell Biology", "Prokaryotes"],
+    "topic": [ "Prokaryotes"],
     "Question": {
       "content": "The location of genetic material in the cytoplasm of the prokaryotes called?",
       "type": "OBJ",
@@ -626,7 +626,7 @@
   {
     "type": "Question",
     "name": "Question 38",
-    "topic": ["Cell Biology", "Plant Cells"],
+    "topic": [ "Plant Cells"],
     "Question": {
       "content": "Large central vacuole is a feature of?",
       "type": "OBJ",
@@ -698,7 +698,7 @@
   {
     "type": "Question",
     "name": "Question 41",
-    "topic": ["Cell Biology", "Cell Membrane"],
+    "topic": [ "Cell Membrane"],
     "Question": {
       "content": "The cell membrane regulates entry and exit of the following except?",
       "type": "OBJ",
@@ -722,7 +722,7 @@
   {
     "type": "Question",
     "name": "Question 42",
-    "topic": ["Cell Biology", "Endoplasmic Reticulum"],
+    "topic": [ "Endoplasmic Reticulum"],
     "Question": {
       "content": "Rough endoplasmic reticulum is distinguished from smooth endoplasmic reticulum by having --- on its surface.",
       "type": "OBJ",
@@ -746,7 +746,7 @@
   {
     "type": "Question",
     "name": "Question 43",
-    "topic": ["Cell Biology", "History of Biology"],
+    "topic": [ "History of Biology"],
     "Question": {
       "content": "--- discovered Golgi apparatus.",
       "type": "OBJ",
@@ -770,7 +770,7 @@
   {
     "type": "Question",
     "name": "Question 44",
-    "topic": ["Cell Biology", "Cellular Respiration"],
+    "topic": [ "Cellular Respiration"],
     "Question": {
       "content": "The organelle responsible for cellular respiration is called ---.",
       "type": "OBJ",
@@ -794,7 +794,7 @@
   {
     "type": "Question",
     "name": "Question 45",
-    "topic": ["Cell Biology", "Vacuoles"],
+    "topic": [ "Vacuoles"],
     "Question": {
       "content": "The membrane of cell vacuole is called ---.",
       "type": "OBJ",
@@ -818,7 +818,7 @@
   {
     "type": "Question",
     "name": "Question 46",
-    "topic": ["Cell Biology", "Ribosomes"],
+    "topic": [ "Ribosomes"],
     "Question": {
       "content": "Ribosomes are made of ---.",
       "type": "OBJ",
@@ -842,7 +842,7 @@
   {
     "type": "Question",
     "name": "Question 47",
-    "topic": ["Cell Biology", "Cell Division"],
+    "topic": [ "Cell Division"],
     "Question": {
       "content": "Centrosomes are important in cells for ---.",
       "type": "OBJ",
@@ -866,7 +866,7 @@
   {
     "type": "Question",
     "name": "Question 48",
-    "topic": ["Cell Biology", "Cytoskeleton"],
+    "topic": [ "Cytoskeleton"],
     "Question": {
       "content": "Cytoskeleton is the internal network of --- which extend throughout the cell cytoplasm.",
       "type": "OBJ",
@@ -890,7 +890,7 @@
   {
     "type": "Question",
     "name": "Question 49",
-    "topic": ["Cell Biology", "Cell Motility"],
+    "topic": [ "Cell Motility"],
     "Question": {
       "content": "Flagella and cilia are characteristics of ---.",
       "type": "OBJ",
@@ -935,7 +935,7 @@
   {
     "type": "Question",
     "name": "Question 51",
-    "topic": ["Cell Biology", "Histology"],
+    "topic": [ "Histology"],
     "Question": {
       "content": "A group of similar cells of the same origin that perform common function is called tissue.",
       "type": "OBJ",
@@ -961,7 +961,7 @@
   {
     "type": "Question",
     "name": "Question 52",
-    "topic": ["Cell Biology", "Cell Motility"],
+    "topic": [ "Cell Motility"],
     "Question": {
       "content": "The distinguishing characteristics between cilia and flagella is in their ---.",
       "type": "subjective"
@@ -1063,7 +1063,7 @@
   {
     "type": "Question",
     "name": "Question 58",
-    "topic": ["Cell Biology", "Cytology"],
+    "topic": [ "Cytology"],
     "Question": {
       "content": "The physiology and anatomy of cells are the foundation of --- and --- cytology respectively.",
       "type": "subjective"
@@ -1119,7 +1119,7 @@
   {
     "type": "Question",
     "name": "Question 61",
-    "topic": ["Cell Biology", "Biochemistry"],
+    "topic": [ "Biochemistry"],
     "Question": {
       "content": "A ______ is a specific molecule found almost exclusively in certain cellular component due to its ______.",
       "type": "subjective"
@@ -1136,7 +1136,7 @@
   {
     "type": "Question",
     "name": "Question 62",
-    "topic": ["Cell Biology", "Histology"],
+    "topic": [ "Histology"],
     "Question": {
       "content": "What are the corresponding markers for the following cellular components?",
       "type": "subjective"
